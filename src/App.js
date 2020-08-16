@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!
+          Learn From Father Aadesh Goyal!
         </a>
       </header>
     </div>
